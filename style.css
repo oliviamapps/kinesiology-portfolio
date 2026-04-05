@@ -1,0 +1,64 @@
+/* General */
+body {
+  font-family: Georgia, serif;
+  background-color: #1c1c1c;
+  color: #e8e8e8;
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #a855f7;
+  font-weight: bold;
+}
+
+/* Navigation */
+nav {
+  background-color: #2c2c2c;
+  padding: 14px 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #c084fc;
+  margin-right: 16px;
+  font-family: Arial, sans-serif;
+}
+
+nav a:hover {
+  color: #a855f7;
+  text-decoration: underline;
+}
+
+/* Main content */
+main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Kinesiology Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Projects</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <main>
+    <h1>Welcome to My Portfolio</h1>
+    <h2>Kinesiology & Exercise Physiology</h2>
+    <p>This is where your content will go.</p>
+  </main>
+
+</body>
+</html>
