@@ -40,28 +40,3 @@ main {
   margin: 40px auto;
   padding: 0 20px;
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Kinesiology Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-  <nav>
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Projects</a>
-    <a href="#">Contact</a>
-  </nav>
-
-  <main>
-    <h1>Welcome to My Portfolio</h1>
-    <h2>Kinesiology & Exercise Physiology</h2>
-    <p>This is where content will go.</p>
-  </main>
-
-</body>
-</html>
