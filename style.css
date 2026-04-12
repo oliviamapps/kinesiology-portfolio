@@ -34,6 +34,27 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* Dropdown */
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #2c2c2c;
+  min-width: 160px;
+  z-index: 1; 
+  padding: 8px 0;
+}
+
+.dropdown-content a {
+  display: block; 
+  margin: 0;
+  padding: 8px, 16px
+}
+
 /* Main content */
 main {
   max-width: 800px;
