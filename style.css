@@ -55,6 +55,10 @@ nav a:hover {
   padding: 8px, 16px
 }
 
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 /* Main content */
 main {
   max-width: 800px;
