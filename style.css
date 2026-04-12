@@ -24,18 +24,18 @@ h3 {
 
 /* Navigation */
 nav {
-  background-color: #2c2c2c;
+  background-color: #7B7FC4;
   padding: 14px 20px;
 }
 
 nav a {
   text-decoration: none;
-  color: #7B7FC4;
+  color: #F4F4FA;
   margin-right: 16px;
 }
 
 nav a:hover {
-  color: #F4F4FA;
+  color: #4A4A8A;
   text-decoration: underline;
 }
 
@@ -78,7 +78,7 @@ main {
 
 .note {
   font-size: 0.9em;
-  color: #555;
+  color: #4A4A8A;
 }
 
 /* List styling */
