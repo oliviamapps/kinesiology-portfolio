@@ -57,7 +57,7 @@ nav a:hover {
 .dropdown-content a {
   display: block; 
   margin: 0;
-  padding: 8px, 16px
+  padding: 8px, 16px;
 }
 
 .dropdown:hover .dropdown-content {
@@ -95,7 +95,7 @@ html {
 .hero {
   display: flex;
   align-items: center;
-  gap: 40px
+  gap: 40px;
   padding: 40px 60px; 
   background-color: #f5f4fb;
 }
@@ -110,7 +110,7 @@ html {
 }
 
 .hero-text h1 {
-  color: #4a4a8a
+  color: #4a4a8a;
   margin-bottom: 8px;
 }
 
