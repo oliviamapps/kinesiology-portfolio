@@ -130,3 +130,17 @@ html {
   width: 350px;
   height: auto;
 }
+
+/* Excel Preview Images */
+.excel-preview {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.excel-img {
+  width: 48%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
