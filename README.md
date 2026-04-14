@@ -11,5 +11,5 @@ Python: Data analysis and programmatic visualization
 Excel: Kinesiology-related calculation system
 Scratch: Logic-based interactive maze
 
-##How to Navigate the Site 
+## How to Navigate the Site 
 Use the navbar at the top of every page to move between sections. The Projects dropdown contains all technical work.
