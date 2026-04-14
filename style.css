@@ -98,6 +98,8 @@ html {
   gap: 40px;
   padding: 40px 60px; 
   background-color: #f5f4fb;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .portfolio-pic {
