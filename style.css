@@ -90,3 +90,31 @@ ul {
 html {
   scroll-behaviour: smooth;
 }
+
+/* Hero styling */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 40px
+  padding: 40px 60px; 
+  background-color: #f5f4fb;
+}
+
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border: 4px solid #6b6aab;
+  flex-shrink: 0;
+}
+
+.hero-text h1 {
+  color: #4a4a8a
+  margin-bottom: 8px;
+}
+
+.hero-text h2 {
+  font-size: 1.1rem;
+  color: #333;
+  margin-bottom: 12px;
+}
